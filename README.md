@@ -17,7 +17,7 @@ Group Members:
 
 FOOD ORDERING SYSTEM
 
-Functionalities:
+Functionality:
 1. View Menu
 2. Add to Cart
 3. Review Order
