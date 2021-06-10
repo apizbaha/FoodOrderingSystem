@@ -18,10 +18,10 @@ Group Members:
 FOOD ORDERING SYSTEM
 
 Functionalities:
-  1. View Menu
-	2. Add to Cart
-	3. Review Order
-	4. Send Feedback
-	5. View All Feedback
+1. View Menu
+2. Add to Cart
+3. Review Order
+4. Send Feedback
+5. View All Feedback
 
 Video link: https://drive.google.com/file/d/1ErMsHvoX31TDDja4cmV7javuPn47xbob/view?usp=sharing
